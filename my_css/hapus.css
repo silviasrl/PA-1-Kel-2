@@ -1,0 +1,4 @@
+.konten .gambar .img .efek_gambar a img:hover{
+    -webkit-transform: scale(5);
+    transform: scale(5);
+}
