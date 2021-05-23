@@ -1,0 +1,68 @@
+.nav-link{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: black;
+    }
+
+.carousel-inner{
+    width: 80px auto;
+    height: 80px auto;
+}
+
+.card-title{
+    font-family: cursive;
+    color: tomato;
+    font-size: 2rem;
+}
+
+.card-text{
+    font-family:inherit;
+}
+
+.card-text2{
+    font-family: inherit;
+}
+
+.box .col-4 {
+    width: 33%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+
+.info-panel2 {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+    margin-top: 80px;
+    padding: 30px;
+    margin-left: 60px;
+    background-color: #ffffff;
+    color: black;
+  }
+
+  .display-2 {
+      font-family:'Times New Roman', Times, serif;
+      color: coral;
+  }
+
+  .display-5{
+      font-family: 'Times New Roman', Times, serif;
+      color: coral;
+  }
+  
+  .tengah{
+  position: absolute;
+  margin-top: -200px;
+  margin-left: -200px;
+  left: 50%;top: 50%;
+  width: 400px;
+  height: 250px;
+  background-color: brown;
+  }
+
+  
+.judul {
+    font-variant: inherit;
+}
+

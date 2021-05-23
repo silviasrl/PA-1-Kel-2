@@ -1,0 +1,45 @@
+body {
+    background: salmon;
+    font-family: 'Times New Roman';
+  }
+  
+  h2 {
+    color: #fff;
+  }
+  
+  .login {
+    padding: 1em;
+    margin: 5em auto;
+    width: 17em;
+    background: #fff;
+    border-radius: 3px;
+  }
+  
+  label {
+    font-size: 10pt;
+    color: #555;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  textarea {
+    padding: 8px;
+    width: 95%;
+    background: #efefef;
+    border: 0;
+    font-size: 10pt;
+    margin: 6px 0px;
+  }
+  
+  .tombol {
+    background: salmon;
+    color: #fff;
+    border: 0;
+    padding: 10px 10px;
+    margin: 20px 0px;
+    font-family: 'Times New Roman';
+  }
+
+  
+
+  
